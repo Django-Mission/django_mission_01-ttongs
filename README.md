@@ -1,6 +1,11 @@
 "# django_mission_01-ttongs" 
 
-basic 과제와 challenge 과제 둘 다 완료했습니다.
+basic 미션과 challenge 미션 모두 완료했습니다.
+
+urls.py와 views.py 안에 주석으로 basic 미션인지 challenge 미션인지 적어두었습니다.
+
+templates은 lotto1.html이 basic이고 lotto2.html, lotto2_result.html이 challenge에 해당합니다.
+
 
 - 과제 동작 캡처
   - <basic 과제>
